@@ -1,0 +1,41 @@
+.brandlogo {
+	height: 60px;
+	width: 60px;
+	margin-right: 10px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+.vision{
+	background-color: #BC8F8F;
+	border-radius: 0px;
+	border: none;
+}
+.navii {
+	padding-top: 35px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+body{
+	background-color: #00d1b2;
+}
+.offset{
+	padding-top: 50px;
+
+}
+.footer{
+	
+	width: 100%;
+	background-color: grey;
+	color: white;
+	margin-top: 30px;
+}
+.adjust ul{
+	margin-right: 50px;
+}
+.sharp{
+	padding-left: 100px;
+	color: white;
+	font-family: serif;
+
+}

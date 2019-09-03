@@ -1,0 +1,71 @@
+body{
+	background-color: #00d1b2;
+	height: 100px;
+	}
+h1{
+	font-family: serif;
+	color: black;
+}
+nav{
+	width: 100%;
+	height: 100px;
+
+}
+ul{
+	margin-left: 60px; 
+}
+.brandlogo {
+	height: 60px;
+	width: 60px;
+	margin-right: 10px;
+	margin-top: 0px;
+	padding-top: 0px;
+
+}
+
+.navii {
+	padding-top: 15px;
+}
+
+.introit {
+	text-align: center;
+	font: castellar;
+	color: white;
+
+	margin-bottom: 160px;
+}
+
+.introit h1 {
+	color: white;
+	font-size: 100px;
+}
+.tilt{
+	padding-left: 100px;
+	margin-bottom: 50px;
+}
+.footer{
+	
+	width: 100%;
+	background-color: grey;
+	color: white;
+}
+.row p{
+	margin-left: 50px;
+}
+.adjust ul{
+	margin-right: 50px;
+}
+.vision{
+	background-color: #BC8F8F;
+	border-radius: 0px;
+	border: none;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    padding-bottom: 10px;
+    margin-top: 25px;
+}
+
+
+

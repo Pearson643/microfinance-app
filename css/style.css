@@ -1,0 +1,24 @@
+
+body{	background-image:url('g2.jpg');
+		background-size: cover;
+}
+h1{
+	color: pink;
+	float:left;
+	font-size: 30px;
+	font-family: verdana;
+	font-style: bold;
+
+}
+p{
+	color: pink;
+	float:right;
+	font-size: 20px;
+	margin: 5px;
+	padding: 5px;
+}
+
+p a {
+	text-decoration: none;
+	color:pink;
+}
